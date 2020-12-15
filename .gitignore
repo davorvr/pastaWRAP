@@ -1,0 +1,6 @@
+.idea
+build
+dist
+pastawrap.egg-info
+venv
+pastawrap/__pycache__

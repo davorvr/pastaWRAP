@@ -4,4 +4,7 @@ dist
 pastawrap.egg-info
 venv
 pastawrap/__pycache__
-docsrc
+docsrc/*
+!docsrc/index.rst
+!docsrc/conf.py
+

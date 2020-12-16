@@ -28,6 +28,9 @@ Welcome to pastaWRAP!
    rodents. BioRxiv, 2020.07.23.217737.*
    `<https://doi.org/10.1101/2020.07.23.217737>`_
 
+   Full pastaWRAP source code is available `here <https://github.com/davorvr/pastaWRAP>`_
+   under the GPLv3 license.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:

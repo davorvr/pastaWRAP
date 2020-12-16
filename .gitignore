@@ -4,3 +4,4 @@ dist
 pastawrap.egg-info
 venv
 pastawrap/__pycache__
+docsrc

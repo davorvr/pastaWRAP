@@ -30,6 +30,7 @@ Welcome to pastaWRAP!
 
    Full pastaWRAP source code is available `here <https://github.com/davorvr/pastaWRAP>`_
    under the GPLv3 license.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
